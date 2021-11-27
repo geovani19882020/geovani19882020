@@ -3,9 +3,10 @@
 [![likedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/geovani-teixeira-souza-b473a2152/)
 
 
-![Geovani GitHub stats](https://github-readme-stats.vercel.app/api?username=geovani19882020&show_icons=true&theme=merko)
+![Geovani GitHub stats](https://github-readme-stats.vercel.app/api?username=geovani19882020&show_icons=true&theme=merko) 
 
-[![Geovani Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=geovani19882020)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=geovani19882020&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
